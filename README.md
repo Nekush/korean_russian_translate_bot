@@ -19,7 +19,7 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/your-username/korean-russian-translator-bot.git
+git clone https://github.com/Nekush/korean_russian_translate_bot.git
 cd korean-russian-translator-bot
 ```
 
