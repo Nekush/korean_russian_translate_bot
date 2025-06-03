@@ -20,7 +20,7 @@
 
 ```bash
 git clone https://github.com/Nekush/korean_russian_translate_bot.git
-cd korean-russian-translator-bot
+cd korean_russian_translator_bot
 ```
 
 ### 2. Установите зависимости
